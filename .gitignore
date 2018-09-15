@@ -1,6 +1,6 @@
 # Jupyter Notebook Temp files
 */.ipynb*/
-
+*.html
 # Gitignore file itself
 #.gitignore
 
