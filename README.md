@@ -1,6 +1,6 @@
 # 107-1_Python_Project
 
-* 課程 [GitBook](https://pecu.gitbooks.io/python_/content/week1/4-python-basic-i.html)
+* 課程 [GitBook](https://pecu.gitbooks.io/python_/content/)
 * 課程 [GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)      
 
 ### Week_1 :
