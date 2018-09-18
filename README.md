@@ -18,3 +18,14 @@
 ---
 
 ### Week_2 :
+  1. 利用 **climate1_getStationInfo.ipynb** 爬取氣象站資料
+  2. 利用 **climate2_getStationInfo.ipynb** 爬取氣象站資料
+  3. 將爬取的資料與 **91app** 進行資料合併與處理
+  4. 分析整體資料
+
+###### 參考資料 :
+* [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_2)
+
+---
+
+### Week_3 :
