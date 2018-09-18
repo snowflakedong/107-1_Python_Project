@@ -12,8 +12,8 @@
   4. 讀取 91app [資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB)
 
 ###### 參考資料 :
-* [範例](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_1/course_1) 
-* [認識 91app 資料](https://www.google.com/url?q=https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_1/course_1/06%2520-%2520%25E8%25AA%258D%25E8%25AD%259891app%25E8%25B3%2587%25E6%2596%2599.ipynb&sa=D&ust=1536765986430000&usg=AFQjCNG7XEeqV_hZubjDXk4PR8YNYEdLjA)
+* [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_1/course_1) 
+* [認識 91app 資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_1/course_1/06%20-%20%E8%AA%8D%E8%AD%9891app%E8%B3%87%E6%96%99.ipynb)
 
 ---
 
