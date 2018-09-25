@@ -44,11 +44,12 @@
 
 ---
 
-### Week_3 :
+### [Week_3](https://github.com/snowflakedong/107-1_Python_Project/tree/master/Week_3) :
   1. 完成資料視覺化，繪製出 week v.s. quantity
   2. 自定義族群並繪製出族群消費狀況隨時間的變化
 
 ##### 實作結果 :
+* [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_3/Class.ipynb)
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_3/91App%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E4%BB%BB%E5%8B%99.ipynb)
