@@ -1,4 +1,9 @@
 # 107-1_Python_Project
+* 作者:
+
+      李東霖 Dong-Lin, Lee
+
+---
 
 * 課程 [GitBook](https://pecu.gitbooks.io/python_/content/)
 * 課程 [GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)      
@@ -22,6 +27,7 @@
   2. 利用 **climate2_getStationInfo.ipynb** 爬取氣象站資料
   3. 將爬取的資料與 **91app** 進行資料合併與處理
   4. 分析整體資料
+  5. 尋找新的網頁進行爬蟲，並與 **91app** 合併做分析
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_2)
