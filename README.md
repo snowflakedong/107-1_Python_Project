@@ -16,7 +16,7 @@
      * [Tutorial 2](https://www.google.com/url?q=https://youtu.be/ci3W1T88mzw&sa=D&ust=1536765986429000&usg=AFQjCNFH3yWk5DFXgF8fY5dFQ3AO-Eje7A)
   4. 讀取 91app [資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB)
 
-##### 實做結果:
+##### 實作結果:
 * [ClassWork & HomeWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_1/week_1_first_meet.ipynb)
 
 ###### 參考資料 :
@@ -32,7 +32,7 @@
   4. 分析整體資料
   5. 尋找新的網頁進行爬蟲，並與 **91app** 合併做分析
 
-##### 實做結果 :
+##### 實作結果 :
 * [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_2/Class.ipynb)
 * [HomeWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_2/Homework.ipynb)
 * 取得資料
@@ -45,3 +45,15 @@
 ---
 
 ### Week_3 :
+  1. 完成資料視覺化，繪製出 week v.s. quantity
+  2. 自定義族群並繪製出族群消費狀況隨時間的變化
+
+##### 實作結果 :
+
+###### 參考資料 :
+* [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_3/91App%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E4%BB%BB%E5%8B%99.ipynb)
+* [範例](https://github.com/JessieChiu/CSXSpring2018_Python/blob/master/week_3/week_3_91APP_Viz.ipynb)
+
+---
+
+### Week_4 :
