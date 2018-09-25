@@ -71,11 +71,11 @@ def getCPI(date):
         text = soup.find_all('a', title=re.compile("CPI|WPI"))
         for i in range(len(text)):
             temp = re.split('年|月|增率|，|％', text[i].string)
-            year.append(temp[0])
-            month.append(temp[1])
+            year.append(int(temp[0]))
+            month.append(int(temp[1]))
             CPI.append(temp[4][1:] if temp[4][0]=='漲' else '-'+temp[4][1:])
             WPI.append(temp[-2][1:] if temp[-2][0]=='漲' else '-'+temp[-2][1:])
-            if((int(year[-1])==yy)&(int(month[-1])==mm)):
+            if((year[-1]==yy)&(month[-1]==mm)):
                 end = 0
                 break
         page += 1
