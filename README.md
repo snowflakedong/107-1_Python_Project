@@ -2,6 +2,9 @@
 * 作者:
 
       李東霖 Dong-Lin, Lee
+* 老師：
+
+      蔡芸琤 Pecu, tsai
 
 ---
 
@@ -50,10 +53,12 @@
 
 ##### 實作結果 :
 * [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_3/Class.ipynb)
+* [Homework](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_3/Homework.ipynb)
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_3/91App%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E4%BB%BB%E5%8B%99.ipynb)
-* [範例](https://github.com/JessieChiu/CSXSpring2018_Python/blob/master/week_3/week_3_91APP_Viz.ipynb)
+* [範例_1](https://github.com/JessieChiu/CSXSpring2018_Python/blob/master/week_3/week_3_91APP_Viz.ipynb)
+* [範例_2](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_2/Week2.ipynb)
 
 ---
 
