@@ -59,7 +59,22 @@
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_3/91App%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E4%BB%BB%E5%8B%99.ipynb)
 * [範例_1](https://github.com/JessieChiu/CSXSpring2018_Python/blob/master/week_3/week_3_91APP_Viz.ipynb)
 * [範例_2](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_2/Week2.ipynb)
+* [資料繪圖類型](https://eazybi.com/blog/data_visualization_and_chart_types/)
 
 ---
 
-### Week_4 :
+### [Week_4](https://github.com/snowflakedong/107-1_Python_Project/tree/master/Week_4) :
+  1. 熟悉範例程式
+  2. 嘗試對公司資料進行文字探勘並繪製文字詞頻
+
+##### 實做結果 :
+* [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_4/Class.ipynb)
+
+###### 參考資料 :
+* [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_4)
+* [文字雲](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/%E6%96%87%E5%AD%97%E9%9B%B2%E7%AF%84%E4%BE%8B%E8%88%87%E4%BB%BB%E5%8B%99.ipynb)
+* [範例](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/Week4_2707_Exemple.ipynb)
+
+---
+
+### Week_5 :
