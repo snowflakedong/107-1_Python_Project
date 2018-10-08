@@ -4,6 +4,7 @@ __*/
 *.html
 *.csv
 *.jpg
+*.png
 tt_*
 # Gitignore file itself
 #.gitignore
