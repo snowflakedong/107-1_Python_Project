@@ -66,9 +66,11 @@
 ### [Week_4](https://github.com/snowflakedong/107-1_Python_Project/tree/master/Week_4) :
   1. 熟悉範例程式
   2. 嘗試對公司資料進行文字探勘並繪製文字詞頻
+  3. 閱讀論文並對論文內容摘要性報告
 
 ##### 實做結果 :
-* [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_4/Class.ipynb)
+* [ClassWork & Homework](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_4/Class.ipynb)
+* [簡報](https://goo.gl/vqcLdM)
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_4)
