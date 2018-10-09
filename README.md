@@ -70,7 +70,7 @@
 
 ##### 實做結果 :
 * [ClassWork & Homework](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_4/Class.ipynb)
-* [簡報](https://goo.gl/vqcLdM)
+* [簡報](https://goo.gl/ZbE8Gb)
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_4)
