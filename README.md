@@ -79,4 +79,17 @@
 
 ---
 
-### Week_5 :
+### [Week_5](https://github.com/snowflakedong/107-1_Python_Project/tree/master/Week_5) :
+  1. 嘗試製作詞頻矩陣
+  2. 簡單說明觀察到的現象
+
+##### 實做結果 :
+* [Homework](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_5/Homework.ipynb)
+
+###### 參考資料 :
+* [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_5)
+
+---
+
+### Week_6
+
