@@ -84,7 +84,8 @@
   2. 簡單說明觀察到的現象
 
 ##### 實做結果 :
-* [Homework](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_5/Homework.ipynb)
+* [Homework_v1](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_5/Homework_v1.ipynb)
+* [Homework_v2](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_5/Homework_v2.ipynb)
 
 ###### 參考資料 :
 * [學習資料](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_5)
