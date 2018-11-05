@@ -9,7 +9,6 @@ def readdir(path, confidence=0.6):
     confidence[0.0-1.0] : Specific the detect encode confidence.
     File will be ignore if below this value.
     '''
-    
     title = []
     documents = []
     unknown = 0
@@ -33,16 +32,19 @@ def readdir(path, confidence=0.6):
     return title, documents
 
 
-def savetofile(path, data, confidence=0.6):
+def savetofile(path, data, confidence=0.6, default_encode = 'utf-8'):
     '''path : save data to file, specific file_path file_name, and file_extension.
     data : input data to save.
+    confidence: detect encode confidence throttle
+    default_encode: use default_encode if confidence lower than throttle
     '''
     if os.path.isfile(path):
         with open(path, 'rb') as f:
             text = f.read()
             encode = chardet.detect(text)
         if (encode['confidence'] < confidence):
-            print('Unknown encode file!')
+            print('Unknown encode file! Use default encode: ', default_encode)
+            original = list(map(str.strip, open(path, 'r+', encoding=default_encode).readlines()))
         else:
             original = list(map(str.strip, open(path, 'r+', encoding=encode['encoding']).readlines()))
     else:
