@@ -39,7 +39,7 @@
 * [ClassWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_2/Class.ipynb)
 * [HomeWork](https://github.com/snowflakedong/107-1_Python_Project/blob/master/Week_2/Homework.ipynb)
 * 取得資料
-  * [中華民國統計資訊網](https://www.stat.gov.tw/lp.asp?CtNode=489&C    tUnit=1818&BaseDSD=29&nowPage=1&pagesize=25)
+  * [中華民國統計資訊網](https://www.stat.gov.tw/lp.asp?CtNode=489&CtUnit=1818&BaseDSD=29&nowPage=1&pagesize=25)
   * 取得該網站資訊中的 CPI WPI 資料與 **91app** 資料合併分析
 
 ###### 參考資料 :
@@ -94,3 +94,7 @@
 
 ### Week_6
 
+---
+
+### Presentation
+* [程式成果]()
