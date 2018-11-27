@@ -5,7 +5,18 @@ __*/
 *.csv
 *.jpg
 *.png
+*.rar
+*.pkl
+
 tt_*
+106*
+保險業
+Test*
+first*
+stay*
+second*
+stopword*
+dict*
 # Gitignore file itself
 #.gitignore
 
